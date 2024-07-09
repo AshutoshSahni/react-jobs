@@ -1,3 +1,3 @@
 # React Jobs - A Frontend Project
 
-in progress currently
+this project is in progress currently
