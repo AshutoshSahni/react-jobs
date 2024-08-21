@@ -1,3 +1,3 @@
 # React Jobs - A Frontend Project
 
-this project is in progress currently
+- React Job Listing Web Application
